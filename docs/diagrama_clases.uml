@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/Users/juancorderopascual/IdeaProjects/Montecarlo2021</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">mates.Matematicas</node>
+    <node x="36.0" y="126.0">aplicacion.Principal</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="aplicacion.Principal" target="mates.Matematicas" relationship="DEPENDENCY">
+      <point x="0.0" y="-38.0" />
+      <point x="0.0" y="38.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="true" x="120.5" y="101.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
