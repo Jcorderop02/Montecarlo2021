@@ -17,7 +17,7 @@ A partir de una estimación de esta relación, se multiplica por 4 y se obtiene 
 
 ### Simulación
 Esta es una simulación de como funcionaría el programa con una interfaz gráfica.
-![](/Users/juancorderopascual/IdeaProjects/Montecarlo2021/Imagenes/Pi.gif)
+![Pi.gif](imagenes/Pi.gif)
 
 ### Pre-requisitos
 
