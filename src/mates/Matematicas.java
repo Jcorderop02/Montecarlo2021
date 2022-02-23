@@ -30,7 +30,6 @@ public class Matematicas {
      */
     public static double generarNumeroPi(long pasos) {
         long aciertos = 0;
-        double areaCuadrado = 4.;
 
         for (long i = 1; i <= pasos; i++) {
             double x = Math.random();
@@ -44,7 +43,7 @@ public class Matematicas {
         }
 
         double radio = 1.;
-        double areaCirculo = areaCuadrado * (aciertos * 1. / pasos);
+        double areaCirculo = 4 * (aciertos * 1. / pasos);
         return areaCirculo / (radio * radio);
     }
 }
